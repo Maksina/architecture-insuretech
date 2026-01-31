@@ -1,0 +1,12 @@
+# Виртуальные окружения
+locust-env/
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
